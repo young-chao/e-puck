@@ -7,7 +7,7 @@ import threading
 # import time
 
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), "..")))
-image_path = '../img'
+image_path = '../img/img_e-puck'
 file_path = '../file'
 count = 0
 black_count = 0

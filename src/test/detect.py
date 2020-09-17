@@ -8,7 +8,7 @@ import socket
 import logging
 
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), "..")))
-image_path = '../img'
+image_path = '../img/img_e-puck'
 count = 0
 black_count = 0
 
